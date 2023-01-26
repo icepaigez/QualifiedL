@@ -3877,6 +3877,10 @@ h1 {
   background-color: rgba(30, 41, 59, var(--tw-bg-opacity)) !important;
 }
 
+.contact-footer {
+  text-align: center;
+  padding: 1.5em;
+}
 
 @-webkit-keyframes spin {
   to {

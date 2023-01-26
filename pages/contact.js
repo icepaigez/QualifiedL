@@ -221,6 +221,10 @@ export default function Contact() {
             </div>
           </div>
       </div>
+      <div className="text-sm text-blueGray-500 font-semibold py-1 contact-footer">
+          <p>Copyright © {new Date().getFullYear()}</p> 
+          <p>Qualified Leads is a division of Aipomage Greenland Co Ltd.</p>
+      </div>
     </>
   )
 }
